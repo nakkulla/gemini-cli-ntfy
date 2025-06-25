@@ -32,7 +32,7 @@ go install github.com/isy-macair/gemini-cli-ntfy/cmd/gemini-cli-ntfy@latest
 ### Build from Source
 
 ```bash
-git clone https://github.com/isy-macair/gemini-cli-ntfy
+git clone https://github.com/nakkulla/gemini-cli-ntfy
 cd gemini-cli-ntfy
 make build
 ```
