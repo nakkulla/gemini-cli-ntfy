@@ -4,7 +4,7 @@ package interfaces
 import (
 	"time"
 
-	"github.com/isy-macair/gemini-cli-ntfy/pkg/notification"
+	"github.com/nakkulla/gemini-cli-ntfy/pkg/notification"
 )
 
 // IdleDetector detects user activity/inactivity.

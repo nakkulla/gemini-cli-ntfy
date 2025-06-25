@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"regexp"
 
-	"github.com/isy-macair/gemini-cli-ntfy/pkg/interfaces"
+	"github.com/nakkulla/gemini-cli-ntfy/pkg/interfaces"
 )
 
 // Common ANSI escape sequences for screen clearing

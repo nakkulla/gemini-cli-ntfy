@@ -5,11 +5,11 @@ import (
 	"os"
 	"time"
 
-	"github.com/isy-macair/gemini-cli-ntfy/pkg/config"
-	"github.com/isy-macair/gemini-cli-ntfy/pkg/interfaces"
-	"github.com/isy-macair/gemini-cli-ntfy/pkg/monitor"
-	"github.com/isy-macair/gemini-cli-ntfy/pkg/notification"
-	"github.com/isy-macair/gemini-cli-ntfy/pkg/process"
+	"github.com/nakkulla/gemini-cli-ntfy/pkg/config"
+	"github.com/nakkulla/gemini-cli-ntfy/pkg/interfaces"
+	"github.com/nakkulla/gemini-cli-ntfy/pkg/monitor"
+	"github.com/nakkulla/gemini-cli-ntfy/pkg/notification"
+	"github.com/nakkulla/gemini-cli-ntfy/pkg/process"
 )
 
 // Dependencies holds all the dependencies for the application

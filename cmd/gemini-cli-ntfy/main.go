@@ -9,7 +9,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/isy-macair/gemini-cli-ntfy/pkg/config"
+	"github.com/nakkulla/gemini-cli-ntfy/pkg/config"
 	flag "github.com/spf13/pflag"
 )
 

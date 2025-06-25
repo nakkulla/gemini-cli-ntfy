@@ -7,9 +7,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/isy-macair/gemini-cli-ntfy/pkg/config"
-	"github.com/isy-macair/gemini-cli-ntfy/pkg/interfaces"
-	"github.com/isy-macair/gemini-cli-ntfy/pkg/notification"
+	"github.com/nakkulla/gemini-cli-ntfy/pkg/config"
+	"github.com/nakkulla/gemini-cli-ntfy/pkg/interfaces"
+	"github.com/nakkulla/gemini-cli-ntfy/pkg/notification"
 )
 
 // OutputMonitor monitors output and tracks activity

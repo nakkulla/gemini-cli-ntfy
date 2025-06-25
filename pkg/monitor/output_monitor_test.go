@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/isy-macair/gemini-cli-ntfy/pkg/config"
-	"github.com/isy-macair/gemini-cli-ntfy/pkg/notification"
+	"github.com/nakkulla/gemini-cli-ntfy/pkg/config"
+	"github.com/nakkulla/gemini-cli-ntfy/pkg/notification"
 )
 
 // MockNotifier implements Notifier for testing

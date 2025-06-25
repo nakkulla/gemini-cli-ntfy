@@ -8,8 +8,8 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/isy-macair/gemini-cli-ntfy/pkg/config"
-	"github.com/isy-macair/gemini-cli-ntfy/pkg/interfaces"
+	"github.com/nakkulla/gemini-cli-ntfy/pkg/config"
+	"github.com/nakkulla/gemini-cli-ntfy/pkg/interfaces"
 )
 
 // Manager manages the wrapped Gemini CLI process
