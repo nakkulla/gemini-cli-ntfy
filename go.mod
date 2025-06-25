@@ -1,4 +1,4 @@
-module github.com/isy-macair/gemini-cli-ntfy
+module github.com/nakkulla/gemini-cli-ntfy
 
 go 1.23
 
