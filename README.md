@@ -26,7 +26,7 @@ This ensures you're notified when Gemini needs input, but not when you're active
 ### Go Install
 
 ```bash
-go install github.com/isy-macair/gemini-cli-ntfy/cmd/gemini-cli-ntfy@latest
+go install github.com/nakkulla/gemini-cli-ntfy/cmd/gemini-cli-ntfy@latest
 ```
 
 ### Build from Source
